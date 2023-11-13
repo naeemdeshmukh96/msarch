@@ -1,4 +1,0 @@
-.vs
-.github
-**/bin
-**/obj
